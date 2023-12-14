@@ -1,0 +1,44 @@
+[2021-04-25 11:34:02.371775] RESULT: Успешно начислен баланс пользователю id562105111 в размере 100| data {'MERCHANT_ORDER_ID': '562105111', 'P_PHONE': '', 'P_EMAIL': 'm@m.ru', 'CUR_ID': '45', 'AMOUNT': '100', 'MERCHANT_ID': '289111', 'SIGN': 'ba9b481a8dd7d6d26dd120f03b6b20d5', 'intid': '136231650', 'us_desc': ''}
+
+[2021-04-25 21:12:40.738500] ERROR: Не удалось выдать баланс, пользователь не найден! | data {'MERCHANT_ID': '289111', 'AMOUNT': '1', 'intid': 'TEST_ORDER', 'MERCHANT_ORDER_ID': '562', 'P_EMAIL': 'test_order@free-kassa.ru', 'CUR_ID': '45', 'SIGN': 'f60bc488635152d83daa0cabbb7ce63a'}
+
+[2021-04-25 21:12:40.740223] ERROR: name 'Logs' is not defined | data {'MERCHANT_ID': '289111', 'AMOUNT': '1', 'intid': 'TEST_ORDER', 'MERCHANT_ORDER_ID': '562', 'P_EMAIL': 'test_order@free-kassa.ru', 'CUR_ID': '45', 'SIGN': 'f60bc488635152d83daa0cabbb7ce63a'}
+
+[2021-04-25 21:12:41.347294] ERROR: Не удалось выдать баланс, пользователь не найден! | data {'MERCHANT_ID': '289111', 'AMOUNT': '1', 'intid': 'TEST_ORDER', 'MERCHANT_ORDER_ID': '562', 'P_EMAIL': 'test_order@free-kassa.ru', 'CUR_ID': '45', 'SIGN': 'f60bc488635152d83daa0cabbb7ce63a'}
+
+[2021-04-25 21:12:41.348837] ERROR: name 'Logs' is not defined | data {'MERCHANT_ID': '289111', 'AMOUNT': '1', 'intid': 'TEST_ORDER', 'MERCHANT_ORDER_ID': '562', 'P_EMAIL': 'test_order@free-kassa.ru', 'CUR_ID': '45', 'SIGN': 'f60bc488635152d83daa0cabbb7ce63a'}
+
+[2021-04-25 21:17:01.907195] RESULT: Успешно начислен баланс пользователю id562105111 в размере 15| data {'MERCHANT_ORDER_ID': '562105111', 'P_PHONE': '', 'P_EMAIL': 'm@m.ru', 'CUR_ID': '45', 'AMOUNT': '15', 'MERCHANT_ID': '289111', 'SIGN': '06123ab27ed2fcbf324cea243481111', 'intid': '136314248', 'us_desc': ''}
+
+[2021-04-25 21:17:01.908780] ERROR: name 'Logs' is not defined | data {'MERCHANT_ORDER_ID': '562105111', 'P_PHONE': '', 'P_EMAIL': 'm@m.ru', 'CUR_ID': '45', 'AMOUNT': '15', 'MERCHANT_ID': '289111', 'SIGN': '06123ab27ed2fcbf324cea243481111', 'intid': '136314248', 'us_desc': ''}
+
+[2021-04-25 21:19:04.661380] RESULT: Успешно начислен баланс пользователю id562105111 в размере 15| data {'MERCHANT_ORDER_ID': '562105111', 'P_PHONE': '', 'P_EMAIL': 'm@m.ru', 'CUR_ID': '45', 'AMOUNT': '15', 'MERCHANT_ID': '289111', 'SIGN': '06123ab27ed2fcbf324cea243481111', 'intid': '136314666', 'us_desc': ''}
+
+[2021-04-25 21:19:04.677607] ERROR: name 'config' is not defined | data {'MERCHANT_ORDER_ID': '562105111', 'P_PHONE': '', 'P_EMAIL': 'm@m.ru', 'CUR_ID': '45', 'AMOUNT': '15', 'MERCHANT_ID': '289111', 'SIGN': '06123ab27ed2fcbf324cea243481111', 'intid': '136314666', 'us_desc': ''}
+
+[2021-04-25 21:22:11.155896] RESULT: Успешно начислен баланс пользователю id562105111 в размере 15| data {'MERCHANT_ORDER_ID': '562105111', 'P_PHONE': '', 'P_EMAIL': 'm@m.ru', 'CUR_ID': '45', 'AMOUNT': '15', 'MERCHANT_ID': '289111', 'SIGN': '06123ab27ed2fcbf324cea243481111', 'intid': '136315160', 'us_desc': ''}
+
+[2021-04-25 21:45:51.672598] RESULT: Успешно начислен баланс пользователю id1528861111 в размере 15| data {'MERCHANT_ID': '289111', 'AMOUNT': '15', 'intid': 'TEST_ORDER', 'MERCHANT_ORDER_ID': '1528866811', 'P_EMAIL': 'test_order@free-kassa.ru', 'CUR_ID': '45', 'SIGN': '7532e86949d10eb7694ef0b8a48b0246'}
+
+[2021-04-25 21:46:44.471605] RESULT: Успешно начислен баланс пользователю id1528861111 в размере 15| data {'MERCHANT_ID': '289111', 'AMOUNT': '15', 'intid': 'TEST_ORDER', 'MERCHANT_ORDER_ID': '1528866811', 'P_EMAIL': 'test_order@free-kassa.ru', 'CUR_ID': '45', 'SIGN': '7532e86949d10eb7694ef0b8a48b0246'}
+
+[2021-04-25 21:57:19.699967] RESULT: Успешно начислен баланс пользователю id1528861111 в размере 15
+
+{key} : {value}
+{key} : {value}
+{key} : {value}
+{key} : {value}
+{key} : {value}
+{key} : {value}
+{key} : {value}
+
+[2021-04-25 21:58:31.905165] RESULT: Успешно начислен баланс пользователю id1528861111 в размере 15
+
+MERCHANT_ID : 289111
+AMOUNT : 15
+intid : TEST_ORDER
+MERCHANT_ORDER_ID : 1528861111
+P_EMAIL : test_order@free-kassa.ru
+CUR_ID : 45
+SIGN : 7532e86949d10eb7694ef0b8a48b1111
+

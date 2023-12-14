@@ -1,0 +1,17 @@
+statGame
+game: 73983
+balance: 3655020
+qiwi: 494800
+giveqiwi: 520098
+
+setting
+commision: 6
+refPers: 5
+
+
+rs: 5
+
+
+
+
+
